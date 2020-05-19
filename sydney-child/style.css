@@ -68,7 +68,7 @@ Text Domain: sydney-child
   padding-right: 40px;
 }
 .wpcf7 .template01 p.form__label.is-required label::after {
-  content: "必須";
+  content: "*";
   display: block;
   position: absolute;
   top: 0;
