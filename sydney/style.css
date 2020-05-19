@@ -670,7 +670,7 @@ Header
 	}
 	.admin-bar:not(.siteScrolled) .slide-item {
 		background-position: 50% 0 !important;
-	}	
+	}
 	.header-image {
 		display: none;
 		position: relative;
@@ -693,7 +693,7 @@ Header
 	}
 	.site-description:empty {
 		margin: 0;
-	}	
+	}
 	.site-header.fixed {
 		position: fixed;
 	}
@@ -1083,7 +1083,7 @@ Layout
 	}
 	.header-slider {
 		-moz-transform: none;
-	}	
+	}
 /*--------------------------------------------------------------
 Parallax
 --------------------------------------------------------------*/
@@ -1293,7 +1293,7 @@ Blog
 	.hentry .meta-post,
 	.hentry .meta-post a {
 		color: #5e5e5e;
-		fill: #5e5e5e; 
+		fill: #5e5e5e;
 		font-size: 13px;
 	}
 	.hentry .meta-post span {
@@ -1414,7 +1414,7 @@ Blog
 	}
 	.classic-alt .meta-post a {
 		color: #d65050;
-	}	
+	}
 	/* Modern layout */
 	.content-area.modern .hentry {
 		box-shadow: 0 11px 40px rgba(79, 118, 157, 0.1);
@@ -1627,7 +1627,7 @@ Blog single
 	}
 	.tags-links a:first-of-type {
 		margin-left: 0;
-	}	
+	}
 	/* comment post */
 /*--------------------------------------------------------------
 Comments
@@ -1749,7 +1749,7 @@ Portfolio single
 Footer
 --------------------------------------------------------------*/
 	.footer-widgets {
-		padding: 95px 0;
+		padding: 30px 0;
 		background-color: #252525;
 	}
 	.footer .copyr {
@@ -1862,7 +1862,7 @@ Preloader
 	    text-align: center;
 	    transition: opacity 0.2s ease 0s;
 	    width: 100%;
-	    z-index: 9999;	    
+	    z-index: 9999;
 	}
 	.preloader .spinner {
 	    height: 30px;
@@ -2009,11 +2009,11 @@ Panels
 		padding-left: 0 !important;
 		padding-right: 0 !important;
 	}
-	/* SO post carousel fix */	
+	/* SO post carousel fix */
 	.sow-carousel-thumbnail .overlay {
 	    position: static;
 	    height: 100% !important;
-	}		
+	}
 /* Counter
 -------------------------------------------------------------- */
 	.roll-counter {
@@ -2505,7 +2505,7 @@ Panels
 	.hentry .roll-testimonials blockquote {
 		background-color: transparent;
 		color: inherit;
-	}	
+	}
 	.roll-testimonials .name {
 		font-family: "Raleway", sans-serif;
 		font-size: 18px;
@@ -3222,7 +3222,7 @@ ol.flex-control-nav.flex-control-thumbs li img:not(.flex-active) {
 /* Lightbox video
 -------------------------------------------------------------- */
 .sydney-video .video-text,
-.sydney-video .toggle-popup, 
+.sydney-video .toggle-popup,
 .sydney-video .close-popup {
 	display: none;
 }
@@ -3344,7 +3344,7 @@ div[class*="elementor-widget-wp-widget-sydney"] h5 {
 .sydney-breadcrumbs a {
     text-decoration: underline;
     margin: 0 3px;
-    text-decoration-color: #bababa;	
+    text-decoration-color: #bababa;
 }
 
 /*--------------------------------------------------------------
@@ -3476,12 +3476,12 @@ SVGs
   		}
 		.blog-post:nth-of-type(2n+1) {
 		    clear: left;
-		}  				
+		}
 	}
 	@media only screen and (max-width: 1024px) {
 		.site-header.fixed {
 			position: static !important;
-		}		
+		}
 		.slides-container .slide-item,
 		.panel-row-style {
 			background-attachment: scroll !important;
@@ -3505,7 +3505,7 @@ SVGs
 		}
 		.header-clone {
 			display: none;
-		}		
+		}
 		.posts-navigation {
 			overflow: hidden;
 			margin-bottom: 30px;
@@ -3515,7 +3515,7 @@ SVGs
 		}
 		.btn-menu {
 			display: block;
-		}		
+		}
 	}
 	@media only screen and (max-width: 780px) {
 		.roll-client .client-item img {
